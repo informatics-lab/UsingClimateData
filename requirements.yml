@@ -1,4 +1,4 @@
-name: pangeo-lectures-env
+name: using-climate-data
 channels:
   - defaults
   - conda-forge
