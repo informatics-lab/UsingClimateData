@@ -1,0 +1,16 @@
+name: pangeo-lectures-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.7
+  - jupyter
+  - ipywidgets
+  - ipykernel
+  - pandas
+  - xarray
+  - iris
+  - cartopy
+  - bokeh
+  - scikit-learn
+  - jupyterlab
