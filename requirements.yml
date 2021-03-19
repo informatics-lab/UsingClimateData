@@ -1,4 +1,4 @@
-name: using-climate-data
+name: using_climate_data
 channels:
   - defaults
   - conda-forge
@@ -14,3 +14,7 @@ dependencies:
   - bokeh
   - scikit-learn
   - jupyterlab
+  - boto3
+  - s3fs
+  - intake
+  - intake-esm
