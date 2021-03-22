@@ -18,3 +18,5 @@ dependencies:
   - s3fs
   - intake
   - intake-esm
+  - nc-time-axis
+  - seaborn
