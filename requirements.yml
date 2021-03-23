@@ -16,6 +16,7 @@ dependencies:
   - jupyterlab
   - boto3
   - s3fs
+  - gcsfs
   - intake
   - intake-esm
   - nc-time-axis
